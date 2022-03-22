@@ -1,6 +1,6 @@
-hello world!hello git!
-hello world!hello git!
-hello world!hello git!
+hello world!hello git!  你好，尚硅谷
+hello world!hello git!  你好，git
+hello world!hello git!  
 hello world!hello git!
 hello world!hello git!
 hello world!hello git!
